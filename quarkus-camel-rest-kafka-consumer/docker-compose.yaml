@@ -1,0 +1,17 @@
+version: "3"
+services:
+  quarkus-camel-rest-kafka-consumer:
+    image: quarkus-camel-rest-kafka-consumer:v1.0.0
+    environment:
+      - KAFKA_TOPIC=$KAFKA_TOPIC
+      - KAFKA_BROKER=$KAFKA_BROKER
+    depends_on:
+      - "kafka"
+    ports:
+      - "8080:8080"
+    networks:
+      - "host_sendbox"
+
+networks:
+  host_sendbox:
+    external: true

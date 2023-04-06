@@ -1,0 +1,13 @@
+version: "3.8"
+
+services:
+  native-quarkus-camel-rest-kafka:
+    container_name: native-quarkus-camel-rest-kafka:v1.0.0
+    image: native-quarkus-camel-rest-kafka:v1.0.0
+    environment:
+      - KAFKA_TOPIC=$KAFKA_TOPIC
+      - KAFKA_BROKER=$KAFKA_BROKER
+    networks:
+      - "host_sendbox"
+    extra_hosts:
+      - "host.docker.internal:172.17.0.1"
