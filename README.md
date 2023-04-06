@@ -49,7 +49,7 @@ Other integrations:
 
 
 # KafkaDrop
-![image](https://user-images.githubusercontent.com/17239827/230511540-3ce8e2cb-3ca3-4276-9c1e-a1e43d54a752.png)
+![image](https://user-images.githubusercontent.com/17239827/230512129-946b2e5d-df75-47e5-af77-2b73a01bb6b3.png)
 
 
 # Estrutura do Projeto
