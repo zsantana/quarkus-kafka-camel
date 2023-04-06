@@ -44,7 +44,11 @@ Other integrations:
 * resteasy-reactive-jackson
 * lombok
 
+# Performance
+![image](https://user-images.githubusercontent.com/17239827/230511674-8ea6e8f9-e327-4f71-b15a-77933349b048.png)
 
+
+#KafkaDrop
 ![image](https://user-images.githubusercontent.com/17239827/230511540-3ce8e2cb-3ca3-4276-9c1e-a1e43d54a752.png)
 
 
