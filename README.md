@@ -51,6 +51,9 @@ Other integrations:
 #KafkaDrop
 ![image](https://user-images.githubusercontent.com/17239827/230511540-3ce8e2cb-3ca3-4276-9c1e-a1e43d54a752.png)
 
+#Estrutura do Projeto
+![image](https://user-images.githubusercontent.com/17239827/230511779-3309b9e4-9403-4f30-a76a-f283804c1b3e.png)
+
 
 # Autor
 Reinaldo Jesus Santana - reinaldojsantana@gmail.com
